@@ -47,6 +47,7 @@ In the above charts, we can see that the THS stills in 2nd place. Even the new o
   
   This table shows complete data.
   ![image](https://user-images.githubusercontent.com/88845919/137598452-cf718f4d-01fa-48dd-a9ec-2a92e226f963.png)
+  
   This table shows data without THS ninth grade.
   ![image](https://user-images.githubusercontent.com/88845919/137598478-e6fd9695-2c0f-4206-8ca1-e6594e4ca709.png)
   
@@ -57,6 +58,7 @@ In the above charts, we can see that the THS stills in 2nd place. Even the new o
   
   This table shows complete data.
   ![Scores_by_school_spending](https://user-images.githubusercontent.com/88845919/137598902-f0da9780-62f7-4426-a69f-04e40fbaa9da.PNG)
+  
   This table shows data without THS ninth grade.
   ![Scores_by_school_spending](https://user-images.githubusercontent.com/88845919/137598912-3841c35b-bb6d-4d15-87d0-3f0bb9961406.PNG)
   
@@ -64,6 +66,7 @@ In the above charts, we can see that the THS stills in 2nd place. Even the new o
   
   This table shows complete data.
   ![Scores_by_school_spending](https://user-images.githubusercontent.com/88845919/137599129-f4ca0738-88e0-47d5-979d-352e14e5cb15.PNG)
+  
   This table shows data without THS ninth grade.
   ![Scores_by_school_spending_no_THS](https://user-images.githubusercontent.com/88845919/137599171-2ab5a6b5-7315-4275-b314-920668fd3242.PNG)
   
@@ -73,6 +76,7 @@ In the above charts, we can see that the THS stills in 2nd place. Even the new o
   
   This table shows complete data.
   ![Scores_by_school_size](https://user-images.githubusercontent.com/88845919/137599388-1113682f-851f-4082-bd0a-b5ddc61088b6.PNG)
+  
   This table shows data without THS ninth grade.
   ![Scores_by_school_size_no_THS](https://user-images.githubusercontent.com/88845919/137599390-b78b65c6-c62a-4738-902f-bb909d56e574.PNG)
   
@@ -81,6 +85,7 @@ In the above charts, we can see that the THS stills in 2nd place. Even the new o
   - Scores by school type
   This table shows complete data.
   ![Scores_by_school_type](https://user-images.githubusercontent.com/88845919/137599563-63435c34-9f9d-4012-8903-291917b804d1.PNG)
+  
   This table shows data without THS ninth grade.
   ![Scores_by_school_type_no_THS](https://user-images.githubusercontent.com/88845919/137599568-81b91953-f0ee-4f75-a66e-3cc7c79af615.PNG)
   
