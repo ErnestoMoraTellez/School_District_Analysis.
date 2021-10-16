@@ -1,24 +1,28 @@
 # School_District_Analysis.
-## Overview of School District Analysis
-Maria need to analyse data from the school district to provide insides for performance trends. We analyse data for budget and test scores in math and reading. We need to find trends on this information to help to make decitions for the school budgets and prioryties. We are using pandas to manupale date and show the information.
 
-We have created to analysis, one with the hole information we get, and other excluding Thomas High School ninth grades, because Marie has been notified about academic dishonesty. So we made again the analisys without this infomration to see the influence and compare results.
+## Overview of School District Analysis
+Maria need to analyse data from the school district to provide insides for performance trends. We analyse data for budget and test scores in math and reading. 
+We have created two analysis, one with the hole information we get, and other excluding Thomas High School ninth grades, because Marie has been notified about academic dishonesty. So we made again the analisys without this infomration to see the influence and compare results.
+
+## Purpose
+We need to find trends on this information to help to make decitions for the school budgets and prioryties. We are using pandas to manipale data and show the information.
 
 ##School District Analysis results
 ### How is the district summary affected?
 ![image](https://user-images.githubusercontent.com/88845919/137596185-d86216e5-13d5-473b-ace4-a55abf2f3d83.png)
+
 This is the district summary considering all the schools without cheating.
 ![image](https://user-images.githubusercontent.com/88845919/137596143-c92e6c42-9069-465a-81b3-6716535a91ba.png)
+
 This is the district summary considering all the schools without Thomas High School (THS).
 
+We can see that changing the scores of the ninth students in THS for math and reading affect more percetage of passinf the tests. Specially the overall passing% has more impact. We have a dicrease of 0.3%. This represents that 117 students less, didn't pass both exams compare to the first analysis. The reading and math passing percentage were also affected, but with less impact, 0.1% (49 students) and 0.2% (78) respectively.
 
+The average of the math and reading scores is pretty much the same. Just the Math score decrease 0.1.
 
-A high-level snapshot of the district's key metrics, presented in a table format
-An overview of the key metrics for each school, presented in a table format
-Tables presenting each of the following metrics:
-Top 5 and bottom 5 performing schools, based on the overall passing rate
-The average math score received by students in each grade level at each school
-The average reading score received by students in each grade level at each school
-School performance based on the budget per student
-School performance based on the school size 
-School performance based on the type of school
+###How is the school summary affected?
+![School_summary](https://user-images.githubusercontent.com/88845919/137596798-80c69725-1838-4fcc-903a-a081fd7c0fca.PNG)
+
+This is the school summary with THS results.
+![School_summary_no_THS](https://user-images.githubusercontent.com/88845919/137596827-0ae894d5-337b-4cbc-aa2c-c0b6223bcd62.PNG)
+This is the school summary without THS ninth grade results.
