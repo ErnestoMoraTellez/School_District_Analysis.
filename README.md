@@ -7,7 +7,7 @@ We have created two analysis, one with the hole information we get, and other ex
 ## Purpose
 We need to find trends on this information to help to make decitions for the school budgets and prioryties. We are using pandas to manipale data and show the information.
 
-##School District Analysis results
+## School District Analysis results
 ### How is the district summary affected?
 ![image](https://user-images.githubusercontent.com/88845919/137596185-d86216e5-13d5-473b-ace4-a55abf2f3d83.png)
 
@@ -20,9 +20,12 @@ We can see that changing the scores of the ninth students in THS for math and re
 
 The average of the math and reading scores is pretty much the same. Just the Math score decrease 0.1.
 
-###How is the school summary affected?
+### How is the school summary affected?
 ![School_summary](https://user-images.githubusercontent.com/88845919/137596798-80c69725-1838-4fcc-903a-a081fd7c0fca.PNG)
 
 This is the school summary with THS results.
 ![School_summary_no_THS](https://user-images.githubusercontent.com/88845919/137596827-0ae894d5-337b-4cbc-aa2c-c0b6223bcd62.PNG)
 This is the school summary without THS ninth grade results.
+
+We would notice that the only affected school is the THS. Because is the only one that we modify. Actually it has a vey high impact in the passing% for both exams. The math% decrease 26.36% (431 students), reading 27.65% (452 students), overall 25.87% (422 students). It's a very big share the one that was affected. And this made THS the school with the worst % of of approval in math and reading topics.
+The average of 
