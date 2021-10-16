@@ -46,6 +46,7 @@ In the above charts, we can see that the THS stills in 2nd place. Even the new o
   - Math and reading scores by grade
   
   This table shows complete data.
+  
   ![image](https://user-images.githubusercontent.com/88845919/137598452-cf718f4d-01fa-48dd-a9ec-2a92e226f963.png)
   
   This table shows data without THS ninth grade.
