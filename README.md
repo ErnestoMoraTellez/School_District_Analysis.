@@ -28,7 +28,7 @@ This is the school summary with THS results.
 This is the school summary without THS ninth grade results.
 ![School_summary_no_THS](https://user-images.githubusercontent.com/88845919/137596827-0ae894d5-337b-4cbc-aa2c-c0b6223bcd62.PNG)
 
-We should notice that the only affected school is the THS. Because is the only one that we modify. Actually it has a vey high impact in the passing% for both exams. The math% decrease 26.36% (431 students), reading 27.65% (452 students), overall 25.87% (422 students). It's a very big share the one that was affected. And this made THS the school with the worst % of approval in math and reading topics. Not in the overall.
+We should notice that the only affected school is the THS. Because is the only one that we modify. Actually it has a vey high impact in the passing% for both exams. The math passing% decrease 26.36% (431 students), reading 27.65% (452 students), overall 25.87% (422 students). It's a very big share the one that was affected. And this made THS the school with the worst % of approval in math and reading topics. Not in the overall.
 The average of the exams has very few impact, for math the score decrease 0.07 points and for reading it actually increase 0.05 points. This could mean that the 9th grade students probably need to focus more in reading. Beacuse the other grades has better scores in this topic and help the general average. However the impact or difference is very low.
 
 - How does replacing the ninth grader's math and reading scores affect Thomas High School’s performance relative to the other schools?
@@ -44,6 +44,15 @@ In the above charts, we can see that the THS stills in 2nd place. Even the new o
 
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
+  This table shows complete data.
+  ![image](https://user-images.githubusercontent.com/88845919/137598452-cf718f4d-01fa-48dd-a9ec-2a92e226f963.png)
+  This table shows data without THS ninth grade.
+  ![image](https://user-images.githubusercontent.com/88845919/137598478-e6fd9695-2c0f-4206-8ca1-e6594e4ca709.png)
+  
+  As we know, we replace the scores of THS ninth gade, that's why it appears a nan value on the score section. So changing this values didn't affect the other scores or schools.
   - Scores by school spending
+  ![Scores_by_school_spending](https://user-images.githubusercontent.com/88845919/137598902-f0da9780-62f7-4426-a69f-04e40fbaa9da.PNG)
+  ![Scores_by_school_spending](https://user-images.githubusercontent.com/88845919/137598912-3841c35b-bb6d-4d15-87d0-3f0bb9961406.PNG)
+
   - Scores by school size
   - Scores by school type
