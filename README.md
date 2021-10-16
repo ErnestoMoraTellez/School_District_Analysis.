@@ -43,7 +43,7 @@ Now, updating the information of THS with only the 10-12th grades results we can
 In the above charts, we can see that the THS stills in 2nd place. Even the new overall % with this calculation (cosidering just 10-12th grade scores) decrease 0.32%. This impact wasn't enought to let Griffin High School get up to the second place.
 
 - How does replacing the ninth-grade scores affect the following:
--- Math and reading scores by grade
--- Scores by school spending
--- Scores by school size
--- Scores by school type
+  - Math and reading scores by grade
+  - Scores by school spending
+  - Scores by school size
+  - Scores by school type
