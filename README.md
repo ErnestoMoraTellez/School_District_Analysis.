@@ -87,9 +87,11 @@ In the above charts, we can see that the THS stills in 2nd place. Even the new o
   - Scores by school type
   
   This table shows complete data.
+  
   ![Scores_by_school_type](https://user-images.githubusercontent.com/88845919/137599563-63435c34-9f9d-4012-8903-291917b804d1.PNG)
   
   This table shows data without THS ninth grade.
+  
   ![Scores_by_school_type_no_THS](https://user-images.githubusercontent.com/88845919/137599568-81b91953-f0ee-4f75-a66e-3cc7c79af615.PNG)
   
   We can notice that the group affected are the Charter schools. As we know THS belongs to this group. That's why the results change when we adjust the data of the students of THS.
