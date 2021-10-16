@@ -50,6 +50,7 @@ In the above charts, we can see that the THS stills in 2nd place. Even the new o
   ![image](https://user-images.githubusercontent.com/88845919/137598452-cf718f4d-01fa-48dd-a9ec-2a92e226f963.png)
   
   This table shows data without THS ninth grade.
+  
   ![image](https://user-images.githubusercontent.com/88845919/137598478-e6fd9695-2c0f-4206-8ca1-e6594e4ca709.png)
   
   As we know, we replace the scores of THS ninth gade, that's why it appears a nan value on the score section. So changing this values didn't affect the other scores or schools.
@@ -84,6 +85,7 @@ In the above charts, we can see that the THS stills in 2nd place. Even the new o
   Using directly more decimals. We can notice that the Medium schools results were affected. Almost all the results decrease beacuse of the change. Just the Average Reading Score increase. So, again, probably we can spend more in THS for reading clases.
   
   - Scores by school type
+  
   This table shows complete data.
   ![Scores_by_school_type](https://user-images.githubusercontent.com/88845919/137599563-63435c34-9f9d-4012-8903-291917b804d1.PNG)
   
